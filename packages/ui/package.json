@@ -13,7 +13,7 @@
   },
   "author": "Dylan Kay",
   "license": "ISC",
-  "repository": "git@github.com:jcjewels/carbon.git",
+  "repository": "git@github.com:Nazaire/vtw-toolkit.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
